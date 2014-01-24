@@ -60,7 +60,7 @@
       <HintPath>C:\Users\Stephen\Desktop\RustServer\System.dll</HintPath>
     </Reference>
     <Reference Include="LeatherLoader">
-      <HintPath>..\..\LeatherLoader\LeatherLoader\bin\Debug\LeatherLoader.dll</HintPath>
+      <HintPath>..\..\LeatherLoader\LeatherLoader\bin\Release\LeatherLoader.dll</HintPath>
     </Reference>
   </ItemGroup>
 </Project>

@@ -81,12 +81,15 @@ Granola Bar
 Raw Chicken Breast
 Small Rations
 Small Water Bottle
+Bed
+Bed Blueprint
 Camp Fire Blueprint
 Explosive Charge Blueprint
 Furnace Blueprint
 Large Spike Wall Blueprint
 Large Wood Storage Blueprint
 Metal Door Blueprint
+Metal Window Bars Blueprint
 Sleeping Bag Blueprint
 Small Stash Blueprint
 Spike Wall Blueprint
@@ -135,6 +138,7 @@ Furnace
 Large Spike Wall
 Large Wood Storage
 Metal Door
+Metal Window Bars
 Sleeping Bag
 Small Stash
 Spike Wall
@@ -233,3 +237,5 @@ HandCannon
 HandCannon Blueprint
 Pipe Shotgun
 Pipe Shotgun Blueprint
+Revolver
+Revolver Blueprint

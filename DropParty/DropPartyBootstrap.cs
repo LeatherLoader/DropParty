@@ -163,14 +163,14 @@ namespace DropParty
 
                     if (item == null)
                     {
-                        ConsoleSystem.LogError(string.Format("Loot table {0} has a reference to an item named {1}, but it doesn't appear to exist!", lineTokens[2]));
+                        ConsoleSystem.LogError(string.Format("Loot table {0} has a reference to an item named {1}, but it doesn't appear to exist!", tableName, lineTokens[2]));
                         return null;
                     }
 
                     entry.obj = item;
                 } else
                 {
-                    ConsoleSystem.LogError(string.Format("Loot table {0} has an entry of type '{1}'.  The only valid types are T, for loot table, and I, for item."));
+                    ConsoleSystem.LogError(string.Format("Loot table {0} has an entry of type '{1}'.  The only valid types are T, for loot table, and I, for item.", tableName, lineTokens[1]));
                     return null;
                 }
 
